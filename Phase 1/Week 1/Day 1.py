@@ -1,5 +1,3 @@
-
-
 a = 1; b = 2
 c = a + b
 print("Value of c:", c)
@@ -154,4 +152,3 @@ if age >= 18:
     print("Adult student")
 
 print("Program completed")
-
